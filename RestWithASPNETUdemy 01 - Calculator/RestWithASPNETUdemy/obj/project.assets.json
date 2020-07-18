@@ -11846,11 +11846,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Arquivos\\Cursos\\Udemy\\RESTFull Asp.net e Docker\\Projetos\\RestWithASP-NETUdemy\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj",
+      "projectUniqueName": "F:\\Arquivos\\Cursos\\Udemy\\RESTFull Asp.net e Docker\\Projetos\\RestWithASP-NETUdemy\\RestWithASPNETUdemy 01 - Calculator\\RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj",
       "projectName": "RestWithASPNETUdemy",
-      "projectPath": "F:\\Arquivos\\Cursos\\Udemy\\RESTFull Asp.net e Docker\\Projetos\\RestWithASP-NETUdemy\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj",
+      "projectPath": "F:\\Arquivos\\Cursos\\Udemy\\RESTFull Asp.net e Docker\\Projetos\\RestWithASP-NETUdemy\\RestWithASPNETUdemy 01 - Calculator\\RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj",
       "packagesPath": "C:\\Users\\Joe\\.nuget\\packages\\",
-      "outputPath": "F:\\Arquivos\\Cursos\\Udemy\\RESTFull Asp.net e Docker\\Projetos\\RestWithASP-NETUdemy\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\obj\\",
+      "outputPath": "F:\\Arquivos\\Cursos\\Udemy\\RESTFull Asp.net e Docker\\Projetos\\RestWithASP-NETUdemy\\RestWithASPNETUdemy 01 - Calculator\\RestWithASPNETUdemy\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

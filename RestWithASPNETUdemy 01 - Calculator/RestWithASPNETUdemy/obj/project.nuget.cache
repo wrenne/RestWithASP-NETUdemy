@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Za3byEKousKICTnorlqThe9fatyE/aHCzKKLKg2addVeYv4S382bjnAT+pxz3pgmO040K4A5pccJx0yILbpakQ==",
+  "dgSpecHash": "Xwiu9D/yFigTqH1iXcyL4lLbiIUp18vfRTdvrgzJ3tQJBZTwe3b2TFQOaSDVUghOHbZFMH7bfIz0kHvHaA3FLw==",
   "success": true,
-  "projectFilePath": "F:\\Arquivos\\Cursos\\Udemy\\RESTFull Asp.net e Docker\\Projetos\\RestWithASP-NETUdemy\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj",
+  "projectFilePath": "F:\\Arquivos\\Cursos\\Udemy\\RESTFull Asp.net e Docker\\Projetos\\RestWithASP-NETUdemy\\RestWithASPNETUdemy 01 - Calculator\\RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Joe\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore\\2.1.1\\microsoft.aspnetcore.2.1.1.nupkg.sha512",
